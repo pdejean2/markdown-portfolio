@@ -1,1 +1,9 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+I've done **a lot of things**
+
+_like business_
+
+__and physics__
+
+***but most of all***
+
+_I like to stand **on things**_
